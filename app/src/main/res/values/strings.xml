@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">KlikDNA</string>
+    <string name="new_accpunt">Buat Akun baru</string>
+    <string name="Edit_Profile">Ubah profil</string>
+    <string name="masuk">Masuk</string>
+    <string name="daftar">Daftar</string>
+    <string name="buat_akun">Buat Akun klikDNA</string>
+</resources>
